@@ -1,0 +1,2 @@
+# PythonCourseExercises
+Pascal's triangle
